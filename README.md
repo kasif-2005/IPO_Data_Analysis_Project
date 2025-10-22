@@ -1,5 +1,3 @@
-🧾 IPO Data Analysis Project Summary
-
 The project focuses on analyzing IPO performance using historical data and visualizations.
 
 📊 Key Insights:
